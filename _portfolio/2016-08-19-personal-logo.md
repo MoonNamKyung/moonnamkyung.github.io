@@ -14,7 +14,7 @@ categories: project
 </p>
 
 <p class="meta">
-Date: <strong>{{ page.date | date: "%b %Y" }}</strong> |
+Date: <strong>{{ page.date | date: "%b %Y" }}</strong>
 </p>
 
 <div class="showcase">
